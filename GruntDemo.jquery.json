@@ -1,0 +1,27 @@
+{
+  "name": "GruntDemo",
+  "title": "Gruntdemo",
+  "description": "Grunt Demo By Jun Chen",
+  "version": "0.1.0",
+  "homepage": "https://github.com/answer1991/GruntDemo",
+  "author": {
+    "name": "Jun Chen",
+    "email": "answer1991.chen@gmail.com",
+    "url": "http://blog.answer1991.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/answer1991/GruntDemo.git"
+  },
+  "bugs": "https://github.com/answer1991/GruntDemo/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/answer1991/GruntDemo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
